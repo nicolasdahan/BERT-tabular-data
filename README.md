@@ -1,4 +1,4 @@
-# Multi-modal Learning: BERT-tabular-data
+# Multi-modal Learning - BERT-tabular-data
 
 This repository is a personnal project done as notebook tutorial.
 
